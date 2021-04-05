@@ -1,0 +1,6 @@
+{
+    "name": "trudm/decor",
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
