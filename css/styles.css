@@ -917,6 +917,10 @@ nav ul svg{
     .mm-panel.mm-hidden:not(.block-phone){
         display: none;
     }
+    .owl-carousel{
+        height: 100%;
+        overflow: hidden;
+    }
     .owl-dots{
         position: absolute;
     }
