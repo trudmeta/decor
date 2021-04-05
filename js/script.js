@@ -137,8 +137,8 @@ $(document).ready(function() {
         items: 1,
         autoHeight:true,
         lazyLoad: true,
-        // autoplay: true,
-        // autoplayTimeout: 15000,
+        autoplay: true,
+        autoplayTimeout: 15000,
     })
 
 });
